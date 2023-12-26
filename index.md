@@ -19,7 +19,7 @@ sections:
       title: Announcements/News
       id: announcements
       announcement_items:
-        - title: New Announcement
+        - title: Hong Bao Scheme 2024
           date: 26 December 2023
           announcement: >-
             The Chinese New Year Hong Bao 2024 Schemeu is Live! Head to Taman
