@@ -6,4 +6,6 @@ layout: post
 description: Taman Jurong CC is celebrating Christmas 2023 with our residents on
   20 December 2023. Come join us!
 image: ""
+variant: markdown
 ---
+**
