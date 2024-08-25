@@ -1,15 +1,28 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: History
+        url: History
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our Programmes
+    url: /permalink
+    sublinks:
+      - title: Share a Pack
+        url: Share a Pack page
+      - title: Games with Kakis
+        url: Games with Kakis page
+      - title: Birdwatching
+        url: Birdwatching page
+      - title: Tree Planting
+        url: Tree Planting page
+      - title: Fiber Artists
+        url: Fiber Artists Page
+      - title: Coding
+        url: Coding page
+      - title: Blood Donation Drive
+        url: Blood Donation Drive page
+      - title: Count Me In
+        url: Count Me In Page
