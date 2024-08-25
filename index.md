@@ -35,7 +35,6 @@ sections:
           link_url: https://vouchers.cdc.gov.sg/residents/where-to-spend-vouchers/
   - infopic:
       title: Volunteer with Us
-      subtitle: Add an image and text
       id: infopic
       description: Forge new friendships & make a difference! Be part of our volunteer
         family in Taman Jurong!
