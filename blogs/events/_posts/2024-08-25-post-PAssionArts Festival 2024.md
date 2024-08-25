@@ -8,7 +8,7 @@ description: Taman Jurong CACC will be hosting our own PAssionArts Festival on
 image: ""
 variant: tiptap
 ---
-<p>Taman Jurong CACC will be hosting PAssionArts Festival 2024. This year,
+<p>*Taman Jurong CACC will be hosting PAssionArts Festival 2024. This year,
 we willl be celebrating the vibrant and evocative power of food and would
 like to invite everyone to channel their artistic creativity through any
 medium, infusing art with the essense of food. Explore and express the
@@ -70,4 +70,4 @@ food can evoke through arts.</p>
 </tbody>
 </table>
 </blockquote>
-<p></p>
+<p>*</p>
