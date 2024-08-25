@@ -22,8 +22,8 @@ on our lives. Whether through our drop-in booths or our interactive workshops,
 we aim for everyone to experience the joy, nostalgia, and inspiration that
 food can evoke through arts.</p>
 <p></p>
+<p></p>
 <blockquote>
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -35,7 +35,7 @@ food can evoke through arts.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Taman_Jurong_CACC.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Taman_Jurong_CACC.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
