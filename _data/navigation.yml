@@ -5,8 +5,6 @@ links:
     sublinks:
       - title: History
         url: History
-  - title: Contact Us
-    url: /contact-us/
   - title: Our Programmes
     url: /permalink
     sublinks:
@@ -26,3 +24,33 @@ links:
         url: Blood Donation Drive page
       - title: Count Me In
         url: Count Me In Page
+  - title: Our Network
+    url: /permalink
+    sublinks:
+      - title: Committees
+        url: /permalink
+      - title: Interest Groups
+        url: /permalink
+  - title: Our Volunteers
+    url: Past Human Interest Stories
+    sublinks: []
+  - title: Our News
+    collection: example-folder
+  - title: Our Local Schemes
+    url: /permalink
+    sublinks:
+      - title: Taman Jurong CNY Hong Bao
+        url: /permalink
+      - title: TJSDA
+        url: /permalink
+  - title: Get Involved
+    url: /permalink
+    sublinks:
+      - title: Grassroots Leader
+        url: /permalink
+      - title: Community Volunteer
+        url: /permalink
+      - title: Partner Us!
+        url: /permalink
+  - title: Contact Us
+    url: /contact-us/
