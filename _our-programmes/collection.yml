@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Share A Pack/Share A Pack.md
       - Share A Pack/.keep
       - example-page.md
