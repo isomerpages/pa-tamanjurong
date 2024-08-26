@@ -1,0 +1,4 @@
+collections:
+  local-scheme:
+    output: true
+    order: []
