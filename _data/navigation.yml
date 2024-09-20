@@ -34,7 +34,12 @@ links:
   - title: Our News
     collection: example-folder
   - title: Events
-    url: /permalink
+    url: /events/
+    sublinks:
+      - title: Upcoming Events
+        url: /permalink
+      - title: Past Events
+        url: /permalink
   - title: Our Local Schemes
     url: /permalink
     sublinks:
