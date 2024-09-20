@@ -1,6 +1,6 @@
 title: Title
-url: ""
-favicon: /images/favicon-isomer.ico
+url: https://www.tamanjurong.pa.gov.sg
+favicon: /images/PA_symbol.jpg
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -53,3 +53,7 @@ staging: https://staging.d3afiwpf2xc8s7.amplifyapp.com
 prod: https://master.d3afiwpf2xc8s7.amplifyapp.com
 facebook-pixel: ""
 resources_name: events-1
+shareicon: /images/image.png
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
