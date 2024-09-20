@@ -52,4 +52,34 @@ sections:
       url: sss
       image: /images/taman_jurong_cc_2.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - infobar:
+      title: Announcement
+      id: infobar
+      button: Click here to find out more
+      url: /events/
 ---
