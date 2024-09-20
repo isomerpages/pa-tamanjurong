@@ -31,11 +31,10 @@ links:
         url: /permalink
       - title: Interest Groups
         url: /permalink
-  - title: Our Volunteers
-    url: Past Human Interest Stories
-    sublinks: []
   - title: Our News
     collection: example-folder
+  - title: Events
+    url: /permalink
   - title: Our Local Schemes
     url: /permalink
     sublinks:
@@ -54,5 +53,3 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Events
-    url: /permalink
