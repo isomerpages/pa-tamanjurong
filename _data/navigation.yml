@@ -34,7 +34,7 @@ links:
   - title: Our News
     collection: example-folder
   - title: Our Events
-    url: /events/
+    url: /our-events/
     sublinks:
       - title: Upcoming Events
         url: /Upcoming Events
