@@ -2,19 +2,19 @@ title: Title
 url: https://www.tamanjurong.pa.gov.sg
 favicon: /images/PA_symbol.jpg
 colors:
-  primary-color: "#7a0000"
-  secondary-color: "#b20101"
+  primary-color: "#e90101"
+  secondary-color: "#f26464"
   media-colors:
     - title: media-color-one
       color: "#ce0101"
     - title: media-color-two
-      color: "#e90101"
-    - title: media-color-three
-      color: "#f26464"
-    - title: media-color-four
       color: "#f69696"
-    - title: media-color-five
+    - title: media-color-three
+      color: "#b20101"
+    - title: media-color-four
       color: "#fac7c7"
+    - title: media-color-five
+      color: "#7a0000"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
