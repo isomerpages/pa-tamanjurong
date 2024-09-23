@@ -1,5 +1,5 @@
 collections:
-  events:
+  our-events:
     output: true
     order:
       - Past Events/PAssionArts 2024.md
