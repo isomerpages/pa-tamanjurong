@@ -39,7 +39,7 @@ links:
       - title: Upcoming Events
         url: /Upcoming Events
       - title: Past Events
-        url: /permalink
+        url: /past-events
   - title: Our Local Schemes
     url: /permalink
     sublinks:
