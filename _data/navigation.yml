@@ -33,7 +33,7 @@ links:
         url: /permalink
   - title: Our News
     collection: example-folder
-  - title: Events
+  - title: Our Events
     url: /events/
     sublinks:
       - title: Upcoming Events
