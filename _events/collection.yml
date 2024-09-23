@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Past Events/.keep
       - Upcoming Events/Deepavali.md
       - Upcoming Events/.keep
