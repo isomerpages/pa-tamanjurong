@@ -10,9 +10,30 @@ community!</p>
 <p>Check out highlights from our past events, including lively cultural festivals,
 engaging workshops, and family-friendly activities that brought residents
 together and created lasting memories.</p>
-<p></p>
 <p>Stay tuned for our upcoming events, featuring exciting programs such as
 community talks, festive celebrations, and interactive classes designed
 for all ages. Whether you’re looking to connect with neighbors or explore
 new interests, there’s something for everyone at Taman Jurong CC. Don’t
 miss out on the fun—mark your calendars and be part of our community spirit!</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Upcoming Events</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Deepavali</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Past Events</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
