@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Past Events.md
+      - Events.md
       - Past Events/PAssionArts 2024.md
       - Past Events/.keep
       - Upcoming Events/Deepavali.md
