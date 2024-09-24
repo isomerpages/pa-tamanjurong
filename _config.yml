@@ -3,7 +3,7 @@ url: https://www.tamanjurong.pa.gov.sg
 favicon: /images/PA_symbol.jpg
 colors:
   primary-color: "#e90101"
-  secondary-color: "#f26464"
+  secondary-color: "#e90101"
   media-colors:
     - title: media-color-one
       color: "#ce0101"
