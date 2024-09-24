@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Count Me In.md
-      - Blood Donation Drive.md
-      - Coding.md
-      - Fiber Artists.md
-      - Tree Planting.md
-      - Bird Watching.md
-      - Games With Kakis.md
       - Share A Pack.md
+      - Games With Kakis.md
+      - Bird Watching.md
+      - Tree Planting.md
+      - Fiber Artists.md
+      - Coding.md
+      - Blood Donation Drive.md
+      - Count Me In.md
