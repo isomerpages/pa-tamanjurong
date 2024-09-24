@@ -42,7 +42,7 @@ description: ""
 <div class="isomer-card-description">Catch up with the technology, coding class for all ages</div>
 <div class="isomer-card-link">Programme Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/blood-donation-drive/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Blood Donation Drive" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blood Donation Drive</div><div class="isomer-card-description">Do you know every bag of blood you donate could possibly save up to 7 lives? </div><div class="isomer-card-link">Programme Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/blood-donation-drive/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Blood Donation Drive" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Blood Donation Drive</div><div class="isomer-card-description">Do you know every bag of blood you donate could possibly save up to 7 lives?</div><div class="isomer-card-link">Programme Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/count-me-in/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
