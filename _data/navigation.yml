@@ -10,20 +10,20 @@ links:
     sublinks:
       - title: Share a Pack
         url: /share-a-pack/
-      - title: Games with Kakis
-        url: Games with Kakis page
-      - title: Birdwatching
-        url: Birdwatching page
+      - title: Games With Kakis
+        url: /games-with-kakis/
+      - title: Bird Watching
+        url: /bird-watching/
       - title: Tree Planting
-        url: Tree Planting page
+        url: /tree-planting/
       - title: Fiber Artists
-        url: Fiber Artists Page
+        url: /fiber-artists/
       - title: Coding
-        url: Coding page
+        url: /coding/
       - title: Blood Donation Drive
-        url: Blood Donation Drive page
+        url: /blood-donation-drive/
       - title: Count Me In
-        url: Count Me In Page
+        url: /count-me-in/
   - title: Our Network
     url: /permalink
     sublinks:
