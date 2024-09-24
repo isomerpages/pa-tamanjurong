@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Count Me In.md
       - Blood Donation Drive.md
       - Coding.md
       - Fiber Artists.md
