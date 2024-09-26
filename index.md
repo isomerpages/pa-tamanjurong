@@ -34,6 +34,16 @@ sections:
           link_text: Read More >
           link_url: https://vouchers.cdc.gov.sg/residents/where-to-spend-vouchers/
   - infopic:
+      title: CDC Voucher Scheme 2024
+      subtitle: Announcement
+      id: infopic
+      description: The 2024 CDC Voucher Scheme is Live! Please visit redeem.gov.sg and
+        log in with your Singpass to claim your e-vouchers today!
+      button: Find out more
+      url: /cdc-voucher/
+      image: /images/CDC_voucher.jpg
+      alt: Image alt text
+  - infopic:
       title: Volunteer with Us
       id: infopic
       description: Forge new friendships & make a difference! Be part of our volunteer
@@ -52,34 +62,4 @@ sections:
       url: sss
       image: /images/taman_jurong_cc_2.jpg
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - infobar:
-      title: Announcement
-      id: infobar
-      button: Click here to find out more
-      url: /events/
 ---
