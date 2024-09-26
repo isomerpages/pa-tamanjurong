@@ -15,24 +15,21 @@ sections:
       title: Upcoming Events
       id: resources
       button: View More Events
-  - announcements:
-      title: Announcements/News
-      id: announcements
-      announcement_items:
-        - title: Hong Bao Scheme 2024
-          date: 26 December 2023
-          announcement: "The Chinese New Year Hong Bao 2024 Schemeu is Live! Head to Taman
-            Jurong CC's office counter to register for your Hong Bao!  Criteria:
-            65 years old & above, Monthly income <$3K"
-          link_text: Read More >
-          link_url: https://go.gov.sg/tjhb2024
-        - title: CDC Voucher Scheme 2024
-          date: 01 July 2024
-          announcement: The 2024 CDC Voucher Scheme is Live! Your vouchers have been
-            distributed. Please visit redeem.gov.sg and log in with your
-            Singpass to claim your e-vouchers today!
-          link_text: Read More >
-          link_url: https://vouchers.cdc.gov.sg/residents/where-to-spend-vouchers/
+  - infobar:
+      title: Announcement
+      subtitle: Latest updates in taman jurong
+      id: infobar
+      description: Find out more below
+  - infopic:
+      title: Hong Bao Scheme 2024
+      subtitle: Announcement
+      id: infopic
+      description: The Chinese New Year Hong Bao 2024 Schemeu is Live! Head to Taman
+        Jurong CC's office counter to check your eligibility for your Hong Bao!
+      button: Find out more
+      url: /hongbao/
+      image: /images/Hong_bao.jpg
+      alt: Image alt text
   - infopic:
       title: CDC Voucher Scheme 2024
       subtitle: Announcement
