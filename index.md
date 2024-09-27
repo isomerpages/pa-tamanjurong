@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Taman Jurong
 description: An Isomer site of the Singapore Government
 image: /images/image.png
 permalink: /
