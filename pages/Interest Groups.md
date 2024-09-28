@@ -26,5 +26,29 @@ our fellow residents!</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eco-Upcycling" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eco-Upcycling</div><div class="isomer-card-description">Eco-Upcycling IG for all residents who have interest to make the world a more sustainable one through the upcycling of our daily necessities.</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Haircutting" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Haircutting</div>
+<div class="isomer-card-description">Haircutting</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Qigong" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Qigong</div><div class="isomer-card-description">Qigong</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Line Dance" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Line Dance</div>
+<div class="isomer-card-description">Line Dance</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Balloon Sculpting" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Balloon Sculpting</div><div class="isomer-card-description">Balloon Sculpting</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
