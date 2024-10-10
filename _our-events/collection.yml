@@ -1,0 +1,8 @@
+collections:
+  our-events:
+    output: true
+    order:
+      - Past Events/PAssionArts 2024.md
+      - Past Events/.keep
+      - Upcoming Events/Deepavali.md
+      - Upcoming Events/.keep
