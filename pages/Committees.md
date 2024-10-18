@@ -142,5 +142,18 @@ initiatives to preserve Indian traditions and enhance community bonds among
 Indian residents.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Youth Network" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Youth Network</div>
+<div class="isomer-card-description">The Youth Network engages young residents through dynamic programmes,
+leadership opportunities, and community service initiatives, nurturing
+their potential and civic participation.</div>
+</div>
+</div>
 </div>
 <p></p>
