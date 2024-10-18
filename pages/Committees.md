@@ -112,8 +112,8 @@ residents of all ages and abilities.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Community Emergency and Engagement Committee</div>
 <div class="isomer-card-description">The Community Emergency and Engagement Committee promotes community resilience
-by organising Emergency Preparedness exercise to prepare residenec in case
-of emergencies.</div>
+by organising Emergency Preparedness exercises to prepare residents for
+potential emergencies and crises.</div>
 </div>
 </div>
 </div>
