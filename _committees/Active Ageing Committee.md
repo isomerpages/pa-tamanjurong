@@ -14,12 +14,13 @@ environment for seniors to enjoy various programmes that keep them physically
 and mentally engaged, focusing on holistic wellbeing for seniors. These
 programmes help our seniors stay fit and sharp, while also creating opportunities
 for them to engage with fellow residents.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Yarny Trees" src="/images/AAC_Yarny_Trees_ND_2024_JLG_2.jpg">
+<h4>Active Ageing Committees Programmes</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Fiber Artist Crocheting Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Fiber Artist</p>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/AAC_Yarny_Trees_ND_2024_JLG_3.png">
+</details>
 </div>
-<p></p>
 <p></p>
