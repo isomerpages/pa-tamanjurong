@@ -60,8 +60,9 @@ and promote community bonding.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Active Ageing Committee</div>
-<div class="isomer-card-description">The Active Ageing Committee promotes active ageing initiatives within
-seniors in the community</div>
+<div class="isomer-card-description">The Active Ageing Committee organises programmes and activities to support
+residents transitioning into their senior years, promoting health, social
+engagement, and lifelong learning.</div>
 </div>
 </div>
 <div class="isomer-card">
