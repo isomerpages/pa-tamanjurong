@@ -1,4 +1,5 @@
 collections:
   committees:
     output: true
-    order: []
+    order:
+      - Active Ageing Committee.md
