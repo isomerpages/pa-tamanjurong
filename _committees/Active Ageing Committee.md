@@ -13,7 +13,7 @@ environment for seniors to enjoy various programmes that keep them physically
 and mentally engaged, focusing on holistic wellbeing for seniors. These
 programmes help our seniors stay fit and sharp, while also creating opportunities
 for them to engage with fellow residents.</p>
-<h4>Active Ageing Committees Workshops</h4>
+<h4>Active Ageing Committee Workshops</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Fiber Artist Crocheting Programme</summary>
@@ -53,4 +53,12 @@ your iPhone, from simple tips to lesser-known tricks! &nbsp;</p>
 </div>
 </details>
 </div>
+<p>Join us as a volunteer at <a href="http://go.gov.sg/tjaac-cv" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/tjaac-c</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cycling_without_age___GBTB_2024.png">
+</div>
+<p>Follow us on our <a href="https://www.facebook.com/tjaac" rel="noopener nofollow" target="_blank">Facebook</a> for
+the latest updates about out committee and events!</p>
 <p></p>
