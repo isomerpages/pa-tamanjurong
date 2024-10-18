@@ -90,5 +90,18 @@ within the community.</div>
 to play active and leadership roles in the community.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Sports Network" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Community Sports Network</div>
+<div class="isomer-card-description">The Community Sports Network promotes active lifestyles by organising
+local sports events, fitness programmes, and recreational activities for
+residents of all ages and abilities.</div>
+</div>
+</div>
 </div>
 <p></p>
