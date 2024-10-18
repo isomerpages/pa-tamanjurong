@@ -1,0 +1,5 @@
+collections:
+  local-scheme:
+    output: true
+    order:
+      - Taman Jurong CNY Hong Bao Scheme.md
