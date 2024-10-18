@@ -8,7 +8,6 @@ description: Taman Jurong Active Ageing Committee (AAC)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AAC_Yarny_Trees_ND_2024_JLG.png">
 </div>
-<p></p>
 <p>In Taman Jurong, our Active Ageing Committee strives to create a supportive
 environment for seniors to enjoy various programmes that keep them physically
 and mentally engaged, focusing on holistic wellbeing for seniors. These
@@ -30,6 +29,10 @@ for them to engage with fellow residents.</p>
 <details class="isomer-details">
 <summary>Senior Digital Training (iPhone Functionality Workshop)&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AAC_Senior_Digital_Training_iPhone_Functionality_Workshop.jpg">
+</div>
 <p>Join our Iphone functionality workshop to learn how to make the most of
 your iPhone, from simple tips to lesser-known tricks! &nbsp;</p>
 <p></p>
@@ -41,7 +44,13 @@ your iPhone, from simple tips to lesser-known tricks! &nbsp;</p>
 <summary>Coding &amp; Tinkering Micro:bit</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AAC_Tinkering_MicroBit.jpg">
+</div>
+<p></p>
+<p>Registration link: <a href="https://go.gov.sg/aacdir24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aacdir24</a>
+</p>
 </div>
 </details>
 </div>
-<p>sssssss</p>
+<p></p>
