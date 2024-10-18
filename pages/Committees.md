@@ -52,5 +52,17 @@ of the Community Club, organising diverse activities to engage residents
 and promote community bonding.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Active Ageing Committee" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Active Ageing Committee</div>
+<div class="isomer-card-description">The Active Ageing Committee promotes active ageing initiatives within
+seniors in the community</div>
+</div>
+</div>
 </div>
 <p></p>
