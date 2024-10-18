@@ -150,9 +150,8 @@ Indian residents.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Youth Network</div>
-<div class="isomer-card-description">The Youth Network engages young residents through dynamic programmes,
-leadership opportunities, and community service initiatives, nurturing
-their potential and civic participation.</div>
+<div class="isomer-card-description">The Youth Network facilitates deeper local youth engagement through various
+initiatives, from sports to cultural activities, bringing youths together.</div>
 </div>
 </div>
 </div>
