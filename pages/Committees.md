@@ -64,5 +64,18 @@ and promote community bonding.</div>
 seniors in the community</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Senior Citizens' Executive Committee" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Senior Citizens' Executive Committee</div>
+<div class="isomer-card-description">The Senior Citizens' Executive Committee organises activities and programmes
+tailored for elderly residents, promoting active ageing and social engagement
+within the community.</div>
+</div>
+</div>
 </div>
 <p></p>
