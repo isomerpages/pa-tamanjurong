@@ -103,5 +103,18 @@ local sports events, fitness programmes, and recreational activities for
 residents of all ages and abilities.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Emergency and Engagement Committee" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Community Emergency and Engagement Committee</div>
+<div class="isomer-card-description">The Community Emergency and Engagement Committee promotes community resilience
+by organising Emergency Preparedness exercise to prepare residenec in case
+of emergencies.</div>
+</div>
+</div>
 </div>
 <p></p>
