@@ -30,7 +30,19 @@ neighbourhood even better!</p>
 <h4>Taman Jurong Zone D Residents' Network</h4>
 <p></p>
 <h4>Taman Jurong Zone E Residents' Network</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
+<p>Taman Jurong Zone E Residents' Network plays a key role in fostering neighbourliness
+and strengthening social cohesion, Acting as a bridge between the residents
+and the government, our RN works closely with government agencies and community
+partners to help residents connect, understand local needs, and voice concerns
+or aspirations.</p>
+<p>Blocks under Zone E</p>
+<p>Our Socials!</p>
+<p><a href="https://www.facebook.com/TJZoneERN/" rel="noopener nofollow" target="_blank">Taman Jurong Zone E Residents' Network Facebook</a>
+</p>
+<p>Taman Jurong Zone E Residents' Network Telegram</p>
 <h4>Taman Jurong Zone F Residents' Network</h4>
 <p></p>
 <h4>Taman Jurong Zone G Residents' Network</h4>
