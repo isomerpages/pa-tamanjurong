@@ -18,4 +18,37 @@ resilient, and cohesive community. Through their tireless efforts, RNs
 ensure that each neighbourhood within their zone becomes a vibrant, connected
 community where residents feel a strong sense of belonging and actively
 look out for one another.</p>
-<p>Check out our various Taman Jurong RNs and their details!</p>
+<p>Want to get involved or find out more? Check out the various Residents'
+Networks in Taman Jurong below and see how you can be part of making our
+neighbourhood even better!</p>
+<h4>Taman Jurong Zone A Residents' Network</h4>
+<p></p>
+<h4>Taman Jurong Zone B Residents' Network</h4>
+<p></p>
+<h4>Taman Jurong Zone C Residents' Network</h4>
+<p></p>
+<h4>Taman Jurong Zone D Residents' Network</h4>
+<p></p>
+<h4>Taman Jurong Zone E Residents' Network</h4>
+<p></p>
+<h4>Taman Jurong Zone F Residents' Network</h4>
+<p></p>
+<h4>Taman Jurong Zone G Residents' Network</h4>
+<p></p>
+<h4>Lakefront Residences Residents' Network</h4>
+<p></p>
+<h4>Caspian Residents' Network</h4>
+<p></p>
+<h4>Lakeholmz Condominium Residents' Network</h4>
+<p></p>
+<h4>Lakepoint Condominium Residents' Network</h4>
+<p></p>
+<h4>Lakeside Grove Residents' Network</h4>
+<p></p>
+<h4>Lakelife Residents' Network</h4>
+<p></p>
+<h4>Lakelife Residents' Network</h4>
+<p></p>
+<h4>9@Yuan Ching Residents' Network</h4>
+<p></p>
+<p></p>
