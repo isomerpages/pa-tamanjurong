@@ -1,0 +1,12 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Share A Pack.md
+      - Games With Kakis.md
+      - Bird Watching.md
+      - Tree Planting.md
+      - Fiber Artists.md
+      - Coding.md
+      - Blood Donation Drive.md
+      - Count Me In.md

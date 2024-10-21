@@ -1,0 +1,6 @@
+collections:
+  committees:
+    output: true
+    order:
+      - Seniors Citizens Executive Committee.md
+      - Active Ageing Committee.md

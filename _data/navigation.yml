@@ -1,15 +1,60 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/PA_symbol.jpg
 links:
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: History
+        url: History
+  - title: Our Programmes
+    url: /our-programmes/
+    sublinks:
+      - title: Share a Pack
+        url: /share-a-pack/
+      - title: Games With Kakis
+        url: /games-with-kakis/
+      - title: Bird Watching
+        url: /bird-watching/
+      - title: Tree Planting
+        url: /tree-planting/
+      - title: Fiber Artists
+        url: /fiber-artists/
+      - title: Coding
+        url: /coding/
+      - title: Blood Donation Drive
+        url: /blood-donation-drive/
+      - title: Count Me In
+        url: /count-me-in/
+  - title: Our Network
+    url: /our-network/
+    sublinks:
+      - title: Committees
+        url: /committees/
+      - title: Interest Groups
+        url: /interest-groups/
+  - title: Our News
+    collection: example-folder
+  - title: Our Events
+    url: /our-events/
+    sublinks:
+      - title: Upcoming Events
+        url: /upcoming-events/deepavali/
+      - title: Past Events
+        url: /past-events
+  - title: Our Local Schemes
+    url: /permalink
+    sublinks:
+      - title: Taman Jurong CNY Hong Bao
+        url: /taman-jurong-cny-hong-bao-scheme/
+      - title: TJSDA
+        url: /permalink
+  - title: Get Involved
+    url: /get-involved/
+    sublinks:
+      - title: Grassroots Leader
+        url: /permalink
+      - title: Community Volunteer
+        url: /community-volunteer/
+      - title: Partner Us!
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
