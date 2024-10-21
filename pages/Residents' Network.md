@@ -21,17 +21,17 @@ look out for one another.</p>
 <p>Want to get involved or find out more? Check out the various Residents'
 Networks in Taman Jurong below and see how you can be part of making our
 neighbourhood even better!</p>
-<h4>Taman Jurong Zone A Residents' Network</h4>
+<h3>Taman Jurong Zone A Residents' Network</h3>
+<h3></h3>
+<h3>Taman Jurong Zone B Residents' Network</h3>
+<h3></h3>
+<h3>Taman Jurong Zone C Residents' Network</h3>
+<h3></h3>
+<h3>Taman Jurong Zone D Residents' Network</h3>
 <p></p>
-<h4>Taman Jurong Zone B Residents' Network</h4>
-<p></p>
-<h4>Taman Jurong Zone C Residents' Network</h4>
-<p></p>
-<h4>Taman Jurong Zone D Residents' Network</h4>
-<p></p>
-<h4>Taman Jurong Zone E Residents' Network</h4>
+<h3>Taman Jurong Zone E Residents' Network</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Flat_Telescope_Binocular_Logo__4_x_6_cm_.jpg">
 </div>
 <p>Taman Jurong Zone E Residents' Network plays a key role in fostering neighbourliness
 and strengthening social cohesion, Acting as a bridge between the residents
@@ -43,24 +43,25 @@ or aspirations.</p>
 <p><a href="https://www.facebook.com/TJZoneERN/" rel="noopener nofollow" target="_blank">Taman Jurong Zone E Residents' Network Facebook</a>
 </p>
 <p>Taman Jurong Zone E Residents' Network Telegram</p>
-<h4>Taman Jurong Zone F Residents' Network</h4>
-<p></p>
-<h4>Taman Jurong Zone G Residents' Network</h4>
-<p></p>
-<h4>Lakefront Residences Residents' Network</h4>
-<p></p>
-<h4>Caspian Residents' Network</h4>
-<p></p>
-<h4>Lakeholmz Condominium Residents' Network</h4>
-<p></p>
-<h4>Lakepoint Condominium Residents' Network</h4>
-<p></p>
-<h4>Lakeside Grove Residents' Network</h4>
-<p></p>
-<h4>Lakelife Residents' Network</h4>
-<p></p>
-<h4>Lakelife Residents' Network</h4>
-<p></p>
-<h4>9@Yuan Ching Residents' Network</h4>
-<p></p>
+<h3>Taman Jurong Zone F Residents' Network</h3>
+<h3></h3>
+<h3>Taman Jurong Zone G Residents' Network</h3>
+<h3></h3>
+<h3>Lakefront Residences Residents' Network</h3>
+<h3></h3>
+<h3>Caspian Residents' Network</h3>
+<h3></h3>
+<h3>Lakeholmz Condominium Residents' Network</h3>
+<h3></h3>
+<h3>Lakepoint Condominium Residents' Network</h3>
+<h3></h3>
+<h3>Lakeside Grove Residents' Network</h3>
+<h3></h3>
+<h3>Lakelife Residents' Network</h3>
+<h3></h3>
+<h3>Lakelife Residents' Network</h3>
+<h3></h3>
+<h3>9@Yuan Ching Residents' Network</h3>
+<h3></h3>
+<h3></h3>
 <p></p>
