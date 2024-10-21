@@ -12,20 +12,7 @@ and ensuring Taman Jurong remains a vibrant, harmonious place to live.</p>
 <p>Interested in learning more? Explore our committees below to see how you
 can get involved and contribute to our thriving community!</p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Residents' Network" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Residents' Networks</div>
-<div class="isomer-card-description">Resident Networks bring neighbours together through localised activities
-and initiatives, fostering a strong sense of community within residential
-blocks.</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/residents-network/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Residents' Network" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Residents' Networks</div><div class="isomer-card-description">Resident Networks bring neighbours together through localised activities and initiatives, fostering a strong sense of community within residential blocks.</div><div class="isomer-card-link">Click here to find out more</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
