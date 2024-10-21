@@ -2,6 +2,6 @@ collections:
   our-network:
     output: true
     order:
-      - Interest Groups.md
-      - Committees.md
       - Our Network.md
+      - Committees.md
+      - Interest Groups.md
