@@ -38,10 +38,9 @@ and strengthening social cohesion, Acting as a bridge between the residents
 and the government, our RN works closely with government agencies and community
 partners to help residents connect, understand local needs, and voice concerns
 or aspirations.</p>
-<p>RN Location: 337B Tah Ching Rd, #01-51, Singapore 612337</p>
-<p>Facebook: <a href="https://www.facebook.com/TJZoneERN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/TJZoneERN/</a>
-</p>
-<p>Telegram:</p>
+<p>RN Location: 337B Tah Ching Rd, #01-51, Singapore 612337
+<br>Facebook: <a href="https://www.facebook.com/TJZoneERN/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/TJZoneERN/</a>
+<br>Telegram:</p>
 <h3>Taman Jurong Zone F Residents' Network</h3>
 <h3></h3>
 <h3>Taman Jurong Zone G Residents' Network</h3>
