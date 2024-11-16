@@ -25,18 +25,25 @@ neighbourhood even better!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Taman Jurong Zone A" src="/images/6.jpg">
 </div>
+<p>Facebook: <a href="https://www.facebook.com/TamanJurong.zoneA" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.zoneA</a>
+</p>
 <h3>Taman Jurong Zone B Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone B" src="/images/7.jpg">
 </div>
+<p>Facebook: <a href="https://www.facebook.com/TamanJurong.ZoneB" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.ZoneB</a>
+</p>
 <h3>Taman Jurong Zone C Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone C" src="/images/5.jpg">
 </div>
+<p></p>
 <h3>Taman Jurong Zone D Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone D" src="/images/4.jpg">
 </div>
+<p><a href="https://www.facebook.com/tamanjurong.zoneC" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+</p>
 <h3>Taman Jurong Zone E Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone E Resident's Network" src="/images/1.jpg">
