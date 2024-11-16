@@ -37,13 +37,15 @@ neighbourhood even better!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone C" src="/images/5.jpg">
 </div>
-<p></p>
+<p>Facebook: <a href="https://www.facebook.com/tamanjurong.zoneC" rel="noopener nofollow" target="_blank">https://www.facebook.com/tamanjurong.zoneC</a>
+</p>
 <h3>Taman Jurong Zone D Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone D" src="/images/4.jpg">
 </div>
-<p><a href="https://www.facebook.com/tamanjurong.zoneC" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+<p>Facebook: <a href="https://www.facebook.com/tjzdrn" rel="noopener nofollow" target="_blank">https://www.facebook.com/tjzdrn</a>
 </p>
+<p></p>
 <h3>Taman Jurong Zone E Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone E Resident's Network" src="/images/1.jpg">
@@ -55,10 +57,15 @@ neighbourhood even better!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone F" src="/images/3.jpg">
 </div>
+<p>Facebook: <a href="https://www.facebook.com/TamanJurong.ZoneF" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.ZoneF</a>
+</p>
+<p></p>
 <h3>Taman Jurong Zone G Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone G" src="/images/2.jpg">
 </div>
+<p>Facebook: <a href="https://www.facebook.com/TamanJurong.ZoneG" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.ZoneG</a>
+</p>
 <h3>Lakefront Residences Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakefront Residences RN" src="/images/8.jpg">
