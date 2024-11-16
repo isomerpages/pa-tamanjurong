@@ -38,7 +38,6 @@ neighbourhood even better!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone D" src="/images/4.jpg">
 </div>
 <h3>Taman Jurong Zone E Residents' Network</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone E Resident's Network" src="/images/1.jpg">
 </div>
@@ -66,22 +65,17 @@ neighbourhood even better!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Lakeholmz RN" src="/images/10.jpg">
 </div>
 <h3>Lakepoint Condominium Residents' Network</h3>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakepoint RN" src="/images/11.jpg">
 </div>
-<h3>Lakeside Grove Residents' kNetwork</h3>
-<h3></h3>
+<h3>Lakeside Grove Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakeside Grove RN" src="/images/12.jpg">
 </div>
 <h3>Lakelife Residents' Network</h3>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakelife RN" src="/images/13.jpg">
 </div>
-<h3>Lakelife Residents' Network</h3>
-<h3></h3>
 <h3>9@Yuan Ching Residents' Network</h3>
 <h3></h3>
 <h3></h3>
