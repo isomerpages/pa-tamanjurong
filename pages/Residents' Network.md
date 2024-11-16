@@ -87,6 +87,7 @@ neighbourhood even better!</p>
 </p>
 <p>Instagram: <a href="https://www.instagram.com/caspian_nc/" rel="noopener nofollow" target="_blank">https://www.instagram.com/caspian_nc/</a>
 </p>
+<p></p>
 <h3>Lakeholmz Condominium Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakeholmz RN" src="/images/10.jpg">
@@ -99,10 +100,16 @@ neighbourhood even better!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakeside Grove RN" src="/images/12.jpg">
 </div>
+<p>Facebook: <a href="https://www.facebook.com/LakesideGroveSG" rel="noopener nofollow" target="_blank">https://www.facebook.com/LakesideGroveSG</a>
+</p>
+<p>Instagram: <a href="https://www.instagram.com/lakesidegrovenc/" rel="noopener nofollow" target="_blank">https://www.instagram.com/lakesidegrovenc/</a>
+</p>
 <h3>Lakelife Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakelife RN" src="/images/13.jpg">
 </div>
+<p>Instagram: <a href="https://www.instagram.com/lakelife_rn/" rel="noopener nofollow" target="_blank">https://www.instagram.com/lakelife_rn/</a>
+</p>
 <h3>9@Yuan Ching Residents' Network</h3>
 <h3></h3>
 <h3></h3>
