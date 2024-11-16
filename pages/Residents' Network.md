@@ -27,6 +27,8 @@ neighbourhood even better!</p>
 </div>
 <p>Facebook: <a href="https://www.facebook.com/TamanJurong.zoneA" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.zoneA</a>
 </p>
+<p>Instagram: <a href="https://www.instagram.com/tamanjurongzonea/" rel="noopener nofollow" target="_blank">https://www.instagram.com/tamanjurongzonea/</a>
+</p>
 <h3>Taman Jurong Zone B Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone B" src="/images/7.jpg">
@@ -39,13 +41,14 @@ neighbourhood even better!</p>
 </div>
 <p>Facebook: <a href="https://www.facebook.com/tamanjurong.zoneC" rel="noopener nofollow" target="_blank">https://www.facebook.com/tamanjurong.zoneC</a>
 </p>
+<p>Instagram: <a href="https://www.instagram.com/tamanjurong.zonec/" rel="noopener nofollow" target="_blank">https://www.instagram.com/tamanjurong.zonec/</a>
+</p>
 <h3>Taman Jurong Zone D Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone D" src="/images/4.jpg">
 </div>
 <p>Facebook: <a href="https://www.facebook.com/tjzdrn" rel="noopener nofollow" target="_blank">https://www.facebook.com/tjzdrn</a>
 </p>
-<p></p>
 <h3>Taman Jurong Zone E Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone E Resident's Network" src="/images/1.jpg">
@@ -66,14 +69,24 @@ neighbourhood even better!</p>
 </div>
 <p>Facebook: <a href="https://www.facebook.com/TamanJurong.ZoneG" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.ZoneG</a>
 </p>
+<p>Instagram:</p>
+<p><a href="https://www.instagram.com/tamanjurong.zoneg/" rel="noopener nofollow" target="_blank">https://www.instagram.com/tamanjurong.zoneg/</a>
+</p>
 <h3>Lakefront Residences Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakefront Residences RN" src="/images/8.jpg">
 </div>
+<p>Facebook: <a href="https://www.facebook.com/lakefrontnc" rel="noopener nofollow" target="_blank">https://www.facebook.com/lakefrontnc</a>
+</p>
+<p></p>
 <h3>Caspian Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caspian RN" src="/images/9.jpg">
 </div>
+<p>Facebook: <a href="https://www.facebook.com/caspianNC" rel="noopener nofollow" target="_blank">https://www.facebook.com/caspianNC</a>
+</p>
+<p>Instagram: <a href="https://www.instagram.com/caspian_nc/" rel="noopener nofollow" target="_blank">https://www.instagram.com/caspian_nc/</a>
+</p>
 <h3>Lakeholmz Condominium Residents' Network</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lakeholmz RN" src="/images/10.jpg">
