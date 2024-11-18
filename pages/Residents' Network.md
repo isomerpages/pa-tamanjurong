@@ -67,19 +67,37 @@ neighbourhood even better!</p>
 <br>Instagram: <a href="https://www.instagram.com/tamanjurong.zoneg/" rel="noopener nofollow" target="_blank">https://www.instagram.com/tamanjurong.zoneg/</a>
 </p>
 <h3>Lakefront Residences Residents' Network</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lakefront Residences RN" src="/images/8.jpg">
+</div>
 <p>Facebook: <a href="https://www.facebook.com/lakefrontnc" rel="noopener nofollow" target="_blank">https://www.facebook.com/lakefrontnc</a>
 </p>
 <h3>Caspian Residents' Network</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Caspian RN" src="/images/9.jpg">
+</div>
 <p>Facebook: <a href="https://www.facebook.com/caspianNC" rel="noopener nofollow" target="_blank">https://www.facebook.com/caspianNC</a>
 <br>Instagram: <a href="https://www.instagram.com/caspian_nc/" rel="noopener nofollow" target="_blank">https://www.instagram.com/caspian_nc/</a>
 </p>
 <h3>Lakeholmz Condominium Residents' Network</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lakeholmz Condo RN" src="/images/10.jpg">
+</div>
 <h3>Lakepoint Condominium Residents' Network</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lakepoint Condo RN" src="/images/11.jpg">
+</div>
 <h3>Lakeside Grove Residents' Network</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lakeside Grove RN" src="/images/12.jpg">
+</div>
 <p>Facebook: <a href="https://www.facebook.com/LakesideGroveSG" rel="noopener nofollow" target="_blank">https://www.facebook.com/LakesideGroveSG</a>
 <br>Instagram: <a href="https://www.instagram.com/lakesidegrovenc/" rel="noopener nofollow" target="_blank">https://www.instagram.com/lakesidegrovenc/</a>
 </p>
 <h3>Lakelife Residents' Network</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lakelife RN" src="/images/13.jpg">
+</div>
 <p>Instagram: <a href="https://www.instagram.com/lakelife_rn/" rel="noopener nofollow" target="_blank">https://www.instagram.com/lakelife_rn/</a>
 </p>
 <h3>9@Yuan Ching Residents' Network</h3>
