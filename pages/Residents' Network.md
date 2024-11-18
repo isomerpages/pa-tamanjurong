@@ -22,8 +22,10 @@ look out for one another.</p>
 Networks in Taman Jurong below and see how you can be part of making our
 neighbourhood even better!</p>
 <h3>Taman Jurong Zone A Residents' Network</h3>
-<p>
-<br>Facebook: <a href="https://www.facebook.com/TamanJurong.zoneA" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.zoneA</a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone A RN" src="/images/6.jpg">
+</div>
+<p>Facebook: <a href="https://www.facebook.com/TamanJurong.zoneA" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.zoneA</a>
 <br>Instagram: <a href="https://www.instagram.com/tamanjurongzonea/" rel="noopener nofollow" target="_blank">https://www.instagram.com/tamanjurongzonea/</a>
 </p>
 <h3>Taman Jurong Zone B Residents' Network</h3>
