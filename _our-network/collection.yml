@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Our Committees/Seniors Citizens Executive Committee.md
       - Our Committees/Youth Network.md
       - Our Committees/Residents' Network.md
       - Our Committees/Committees.md
