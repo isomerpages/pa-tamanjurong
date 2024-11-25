@@ -11,3 +11,7 @@ and socially connected. From brisk walks around Singapore to Karaoke sessions,
 our SCEC ensures that every senior in the community has opportunities to
 engage, make new friends, and keep both body and mind active!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCEC.jpg">
+</div>
+<p></p>
