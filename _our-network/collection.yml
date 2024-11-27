@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Our Committees/Community Emergency and Engagement Committee.md
       - Our Committees/Indian Activity Executive Committee.md
       - Our Committees/Active Ageing Committee.md
       - Our Committees/Seniors Citizens Executive Committee.md
