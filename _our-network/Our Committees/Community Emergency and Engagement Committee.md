@@ -40,8 +40,7 @@ our community's safety, cohesion and resilience and our volunteers and
 partners are the bedrock that made these achievements possible.</p>
 <p></p>
 <p>CERT Volunteer Registration Form: <a href="https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5d5b9eeb0ca28100122b004d</a>
+<br>Courses Interest Form: <a href="https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/c2ecoursesinterestform<br></a>Facebook:
+<a href="https://www.facebook.com/tamanjurongC2ECERT?mibextid=LQQJ4d&amp;rdid=Vo9BKxgvhcDoe0cV&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FkHaDzAJGPvYVPXWw%2F%3Fmibextid%3DLQQJ4d#" rel="noopener nofollow" target="_blank">Taman Jurong Community Emergency and Engagement Committee</a><a href="https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d" rel="noopener noreferrer nofollow" target="_blank"><br></a>Instagram
+– <a href="https://www.instagram.com/tamanjurongc2ecert/" rel="noopener nofollow" target="_blank">tamanjurongc2ecert</a>
 </p>
-<p>Courses Interest Form: <a href="https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/c2ecoursesinterestform<br><br>FB</a>:
-Taman Jurong Community Emergency and Engagement Committee
-<br><a href="https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d<br><br>Instagram</a> –
-tamanjurongc2ecert</p>
