@@ -46,7 +46,6 @@ partners are the bedrock that made these achievements possible.</p>
 </div>
 <p>CERT Volunteer Registration Form: <a href="https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/5d5b9eeb0ca28100122b004d</a>
 <br>Courses Interest Form: <a href="https://www.facebook.com/share/kHaDzAJGPvYVPXWw/?mibextid=LQQJ4d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/c2ecoursesinterestform</a>
-<br>
+<br>Facebook: <a href="https://www.facebook.com/tamanjurongC2ECERT" rel="noopener nofollow" target="_blank">Taman Jurong Community Emergency and Engagement Committee</a>&nbsp;
+<br>Instagram: <a href="https://www.instagram.com/tamanjurongc2ecert/" rel="noopener nofollow" target="_blank">tamanjurongc2ecert</a>
 </p>
-<p>Facebook:</p>
-<p>Instagram:</p>
