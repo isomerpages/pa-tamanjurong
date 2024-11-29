@@ -24,6 +24,7 @@ to:</p>
 </ul>
 <p>Join us in creating a stronger, more connected Singapore. Your involvement
 can make a real impact on the lives of those around you.</p>
-<p>Ready to step up? Click here to register your interest in Grassroots Leader
-and kickstart your journey of today!</p>
+<p>Ready to step up? Click <a href="www.go.gov.sg/tjgrl" rel="noopener nofollow" target="_blank">here</a> to
+register your interest in Grassroots Leader and kickstart your journey
+of today!</p>
 <p></p>
