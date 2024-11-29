@@ -11,10 +11,6 @@ sections:
       subtitle: "Forging Connections, Building Bonds: Taman Jurong Kakis"
       background: /images/Unite__Engage__Flourish_Your_Taman_Jurong_Community_Hub.png
       url: /contact-us/
-  - resources:
-      title: Upcoming Events
-      id: resources
-      button: View More Events
   - infobar:
       title: Announcement
       subtitle: Latest updates in taman jurong
