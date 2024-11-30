@@ -38,13 +38,6 @@ links:
         url: /upcoming-events/deepavali/
       - title: Past Events
         url: /past-events
-  - title: Our Local Schemes
-    url: /permalink
-    sublinks:
-      - title: Taman Jurong CNY Hong Bao
-        url: /taman-jurong-cny-hong-bao-scheme/
-      - title: TJSDA
-        url: /permalink
   - title: Get Involved
     url: /get-involved/
     sublinks:
