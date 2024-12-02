@@ -6,9 +6,9 @@ description: ""
 ---
 <p>Since 2008, the Taman Jurong Youth Network has been running Blood Donation
 Drive in Taman Jurong, in close collaboration with the Health Sciences
-Authority (HSA) Blood Bank. This long-standing initiative aims to bolster
-Singapore's blood supply and save lives by encouraging more residents to
-become blood donors.</p>
+Authority (HSA) Blood Bank. This long-standing initiative, held three times
+per year, aims to bolster Singapore's blood supply and save lives by encouraging
+more residents to become blood donors.</p>
 <p>Working hand-in-hand with HSA, the programme has become a cornerstone
 of community service in Taman Jurong, bringing together volunteers and
 donors in a shared mission to support patients in need. The Youth Network's
