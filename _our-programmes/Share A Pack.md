@@ -67,6 +67,8 @@ practices.</p>
 </tr>
 </tbody>
 </table>
+<p>Zone E and Zone G will also have Share a Pack on a bi-monthly basis. Please
+keep an eye on our webpage for the latest updates.</p>
 <p>Join us as a volunteer in our mission to reduce food waste and nourish
 our community now!
 <br>Register as a volunteer at: <a href="https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878</a>
