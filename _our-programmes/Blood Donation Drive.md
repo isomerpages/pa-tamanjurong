@@ -23,4 +23,8 @@ the Youth Network has helped cultivate a culture of regular giving in the
 neighbourhood. The programme's enduring success demonstrates the power
 of grassroots efforts and public-private partnerships in addressing critical
 healthcare needs.</p>
+<p>Follow <a href="https://www.facebook.com/tamanjurongcc/" rel="noopener nofollow" target="_blank">Taman Jurong Community Club</a> or
+<a href="https://www.facebook.com/tjyouths" rel="noopener nofollow" target="_blank">Taman Jurong Youth Network</a>on our social media platforms to receive
+details about the next blood donation drive!</p>
+<p></p>
 <p></p>
