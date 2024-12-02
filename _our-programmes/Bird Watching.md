@@ -9,7 +9,7 @@ on biodiversity and conservation efforts. These guided sessions will provide
 nature-related activities for everyone to enjoy, creating an opportunity
 to come together, make new friends, and connect with nature.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Birdwatching at Jurong Lake Park" src="/images/Bird_Watching.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Birdwatching at Jurong Lake Park" src="/images/Bird_Watching.jpg">
 </div>
 <p>Location: Jurong Lake Gardens
 <br>Time: 8 AM - 9:30 AM</p>
