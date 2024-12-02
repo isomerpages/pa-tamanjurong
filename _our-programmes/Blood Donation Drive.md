@@ -16,7 +16,7 @@ efforts complement HSA's ongoing work, helping to extend the reach of blood
 donation campaigns and ensure a steady supply of blood for medical emergencies
 and treatments.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Blood Donation Drive" src="/images/YN_BDD.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Taman Jurong Blood Donation Drive" src="/images/YN_BDD.jpg">
 </div>
 <p>By making blood donation accessible and raising awareness about its importance,
 the Youth Network has helped cultivate a culture of regular giving in the
