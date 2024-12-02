@@ -10,6 +10,6 @@ We provide rescued fresh food items to those in need while embracing green
 practices.</p>
 <p></p>
 <p>Join us as a volunteer in our mission to reduce food waste and nourish
-the community now!
+our community now!
 <br>Register as a volunteer at: <a href="https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878</a>
 </p>
