@@ -4,12 +4,12 @@ permalink: /share-a-pack/
 variant: tiptap
 description: ""
 ---
+<p>Share a Pack at Taman Jurong is all about reducing food waste, promoting
+eco-friendliness, and ensuring that no one in our community goes hungry.
+We provide rescued fresh food items to those in need while embracing green
+practices.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_12_26_at_2_12_06_PM.png">
-</div>
-<p>Share a pack is an initiative by Taman Jurong Green at Hearts. The goal
-of this project is to reduce wastage of consumable but eliminated "ugly"
-food by the retail consumers. At the same time, giving residents these
-consumables, food are put to good use. This project also has the mission
-of "Embrace Sustainability, Reduce Food Waste, Nourish our Community".</p>
+<p>Join us as a volunteer in our mission to reduce food waste and nourish
+the community now!
+<br>Register as a volunteer at: <a href="https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878</a>
+</p>
