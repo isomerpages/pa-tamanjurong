@@ -2,17 +2,17 @@ collections:
   our-network:
     output: true
     order:
-      - Our Committees/Women's Executive Committee.md
-      - Our Committees/Community Sports Network.md
-      - Our Committees/Malay Activity Executive Committee.md
-      - Our Committees/Community Club Management Committee.md
+      - Our Committees/.keep
+      - Our Committees/Residents' Network.md
       - Our Committees/Citizens' Consultative Committee.md
-      - Our Committees/Community Emergency and Engagement Committee.md
+      - Our Committees/Women's Executive Committee.md
+      - Our Committees/Community Club Management Committee.md
+      - Our Committees/Malay Activity Executive Committee.md
       - Our Committees/Indian Activity Executive Committee.md
       - Our Committees/Active Ageing Committee.md
       - Our Committees/Seniors Citizens Executive Committee.md
       - Our Committees/Youth Network.md
-      - Our Committees/Residents' Network.md
+      - Our Committees/Community Sports Network.md
+      - Our Committees/Community Emergency and Engagement Committee.md
       - Our Committees/Committees.md
-      - Our Committees/.keep
       - Interest Groups.md
