@@ -8,8 +8,11 @@ description: ""
 eco-friendliness, and ensuring that no one in our community goes hungry.
 We provide rescued fresh food items to those in need while embracing green
 practices.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Green at Hearts Share a Pack" src="/images/Website.jpg">
+</div>
 <p>Join us as a volunteer in our mission to reduce food waste and nourish
 our community now!
 <br>Register as a volunteer at: <a href="https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg/events/community-volunteers-needed-share-a-pack-taman-jurong-cc-67041878</a>
 </p>
+<p></p>
