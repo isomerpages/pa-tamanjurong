@@ -12,4 +12,5 @@ your fresh and creative ideas to make Taman Jurong a better place for all!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Community Volunteers" src="/images/Website__2_.jpg">
 </div>
-<p>Scan the above QR code to join us as a community volunteer now!</p>
+<p>Ready to make a difference? Click <a href="https://go.gov.sg/tjcvo" rel="noopener nofollow" target="_blank">here</a> to become a community volunteer
+today.</p>
