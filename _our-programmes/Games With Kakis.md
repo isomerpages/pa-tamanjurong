@@ -25,4 +25,6 @@ a more connected, vibrant, and cohesive neighbourhood for our seniors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="Games with Kakis 1st Anniversary" src="/images/WhatsApp_Image_2024_12_04_at_17_17_28__1_.jpg">
 </div>
-<p></p>
+<p>Games with Kakis celebrated its first anniversary on 19 October 2024,
+marking a year of bringing joy, friendship, and active living to Taman
+Jurong's seniors.</p>
