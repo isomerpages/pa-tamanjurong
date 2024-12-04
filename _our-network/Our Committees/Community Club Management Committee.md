@@ -12,7 +12,9 @@ needs and interests of the residents in Taman Jurong.</p>
 strives to create engaging opportunities for residents to learn, connect,
 and grow together. Whether you're looking to acquire new skills, pursue
 a hobby, or simply meet like-minded neighbours, there's something for everyone.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Games With Kakis at Taman Jurong CC" src="/images/IMG_20241009_WA0002.jpg">
+</div>
 <p>Recognising the importance of digital literacy in today's world, the CCMC
 also helps to host the digital office. The digital office is to assist
 residents in adapting to the digital age. Through these services, residents
