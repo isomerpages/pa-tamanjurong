@@ -18,7 +18,7 @@ session not only stimulates physical and mental agility but also creates
 valuable networking opportunities, allowing participants to build a supportive
 social circle.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Games with Kakis" src="/images/Website__3_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Games with Kakis" src="/images/Website__3_.jpg">
 </div>
 <p>Through Games with Kakis, we're not just playing games – we're building
 a more connected, vibrant, and cohesive neighbourhood for our seniors.</p>
