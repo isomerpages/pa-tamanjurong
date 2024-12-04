@@ -17,4 +17,5 @@ Jurong residents.</p>
 <p>Together, we can build a stronger, more connected community. Discover
 how you can be part of our journey in giving back and creating lasting
 change in Taman Jurong.</p>
-<p>Click here to partner with us now!</p>
+<p>Click <a href="https://form.gov.sg/66cef56795e0e23cba3f68cb" rel="noopener nofollow" target="_blank">here</a> to
+partner with us now!</p>
