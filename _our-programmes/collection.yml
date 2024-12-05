@@ -2,8 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - Share A Pack.md
       - Games With Kakis.md
+      - Share A Pack.md
       - Bird Watching.md
       - Tree Planting.md
       - Coding.md
