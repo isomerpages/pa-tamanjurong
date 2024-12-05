@@ -15,4 +15,6 @@ and hands-on activities.</p>
 <p>Through these workshops, we aim to empower older adults with valuable
 digital skills, fostering independence in today's technological world.
 Join us to embark on an exciting journey into coding and digital technology
-– it's never too late to learn and stay connected!</p>
+– it's never too late to learn and stay connected!
+<br>Follow us on <a href="https://www.facebook.com/tjaac" rel="noopener nofollow" target="_blank">Facebook</a> to
+join us in the upcoming sessions!</p>
