@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to Taman Jurong CC
+      title: Welcome to Taman Jurong Community Club
       subtitle: "Forging Connections, Building Bonds: Taman Jurong Kakis"
       background: /images/Unite__Engage__Flourish_Your_Taman_Jurong_Community_Hub.png
       url: /contact-us/
