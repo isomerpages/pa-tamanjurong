@@ -6,12 +6,12 @@ links:
       - title: History
         url: History
   - title: Our Programmes
-    url: /our-programmes/
+    url: /games-with-kakis/
     sublinks:
-      - title: Share a Pack
-        url: /share-a-pack/
       - title: Games With Kakis
         url: /games-with-kakis/
+      - title: Share a Pack
+        url: /share-a-pack/
       - title: Bird Watching
         url: /bird-watching/
       - title: Tree Planting
