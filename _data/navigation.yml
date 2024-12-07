@@ -10,8 +10,6 @@ links:
     sublinks:
       - title: Games With Kakis
         url: /games-with-kakis/
-      - title: Share a Pack
-        url: /share-a-pack/
       - title: Bird Watching
         url: /bird-watching/
       - title: Tree Planting
@@ -22,6 +20,8 @@ links:
         url: /blood-donation-drive/
       - title: Count Me In
         url: /count-me-in/
+      - title: Share a Pack
+        url: /share-a-pack/
   - title: Our Network
     url: /residents-network/
     sublinks:
