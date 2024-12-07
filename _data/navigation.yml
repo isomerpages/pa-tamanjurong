@@ -35,9 +35,9 @@ links:
     url: /our-events/
     sublinks:
       - title: Upcoming Events
-        url: /upcoming-events/deepavali/
+        url: /upcoming-events/
       - title: Past Events
-        url: /past-events
+        url: /past-events/
   - title: Get Involved
     url: /grassroots-leader/
     sublinks:
