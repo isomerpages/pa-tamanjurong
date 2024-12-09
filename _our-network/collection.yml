@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Interest Groups/.keep
+      - Interest Groups/Haircutting.md
       - Interest Groups/Line Dance.md
       - Interest Groups/Dragon and Lion Dance.md
       - Interest Groups/Eco Upcycling.md
       - Interest Groups/Balloon Sculpting.md
-      - Interest Groups/Haircutting.md
       - Interest Groups/Qigong.md
       - Interest Groups/Rummy O.md
       - Our Committees/.keep
