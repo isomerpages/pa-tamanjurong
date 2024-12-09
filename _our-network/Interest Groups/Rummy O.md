@@ -5,3 +5,11 @@ variant: tiptap
 description: Taman Jurong Rummy-O/Mahjong
 third_nav_title: Interest Groups
 ---
+<h4>Rummy-O/Mahjong</h4>
+<p>In this group, we invite ladies of all ages to join us in exploring the
+exciting worlds of Rummy-O and Mahjong, two timeless games that not only
+bring joy but also offer valuable cognitive benefits. Our mission is to
+foster a fun and engaging environment where participants can challenge
+their minds, build social connections, and stay mentally active—all while
+enjoying a friendly and non-competitive atmosphere.</p>
+<p>Every Tuesday, 7PM to 9.30PM, Taman Jurong CC Room 402</p>
