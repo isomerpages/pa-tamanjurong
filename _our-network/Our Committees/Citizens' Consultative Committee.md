@@ -13,7 +13,9 @@ the community together, promoting a sense of unity and shared national
 pride. By facilitating these gatherings, the CCC helps residents celebrate
 as one, strengthening bonds between neighbours and enhancing the community
 spirit.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Taman Jurong CCC" src="/images/CCC.jpg">
+</div>
 <p>Importantly, the CCC also manages the Community Development and Welfare
 Fund (CDWF). This fund is utilised to render support to families in need
 within the Taman Jurong community, demonstrating the CCC's commitment to
