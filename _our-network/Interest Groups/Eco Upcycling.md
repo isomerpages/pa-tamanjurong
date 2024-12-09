@@ -50,4 +50,4 @@ with Eco-Upcycling, waste is just the beginning of something beautiful.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For more information, please contact Taman Jurong CC at 6265 1711.</p>
