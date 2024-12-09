@@ -5,7 +5,7 @@ variant: tiptap
 description: Taman Jurong Balloon Sculpting Interest Group
 third_nav_title: Interest Groups
 ---
-<p>Balloon Sculpting IG</p>
+<h4>Balloon Sculpting IG</h4>
 <p>The Balloon Sculpting Interest Group is a dynamic community dedicated
 to the art of balloon sculpting. This group brings together individuals
 of all skill levels, from seasoned professionals to beginners eager to
