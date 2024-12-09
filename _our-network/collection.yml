@@ -2,6 +2,7 @@ collections:
   our-network:
     output: true
     order:
+      - Interest Groups/.keep
       - Interest Groups/Line Dance.md
       - Interest Groups/Balloon Sculpting.md
       - Interest Groups/Eco Upcycling.md
@@ -10,7 +11,6 @@ collections:
       - Interest Groups/Rummy O.md
       - Interest Groups/Dragon and Lion Dance.md
       - Interest Groups/Interest Groups.md
-      - Interest Groups/.keep
       - Our Committees/.keep
       - Our Committees/Residents' Network.md
       - Our Committees/Citizens' Consultative Committee.md
