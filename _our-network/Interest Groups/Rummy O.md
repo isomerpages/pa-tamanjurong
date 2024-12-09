@@ -12,4 +12,24 @@ bring joy but also offer valuable cognitive benefits. Our mission is to
 foster a fun and engaging environment where participants can challenge
 their minds, build social connections, and stay mentally active—all while
 enjoying a friendly and non-competitive atmosphere.</p>
-<p>Every Tuesday, 7PM to 9.30PM, Taman Jurong CC Room 402</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Every Tuesday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>7pm to 9.30pm</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Taman Jurong CC Room 402</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
