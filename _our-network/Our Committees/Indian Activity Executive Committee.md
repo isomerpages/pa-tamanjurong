@@ -14,3 +14,7 @@ between Indians and other communities. This page, brought to you by Taman
 Jurong IAEC, serves as a resource for residents to stay informed about
 upcoming Indian activities and events, enhancing community engagement and
 celebrating the rich diversity of our neighbourhood.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Taman Jurong IAEC Deepavali 2024" src="/images/Website__6_.jpg">
+</div>
+<p></p>
