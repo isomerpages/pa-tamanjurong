@@ -2,14 +2,6 @@ collections:
   our-network:
     output: true
     order:
-      - Interest Groups/.keep
-      - Interest Groups/Haircutting.md
-      - Interest Groups/Line Dance.md
-      - Interest Groups/Dragon and Lion Dance.md
-      - Interest Groups/Eco Upcycling.md
-      - Interest Groups/Balloon Sculpting.md
-      - Interest Groups/Qigong.md
-      - Interest Groups/Rummy O.md
       - Our Committees/.keep
       - Our Committees/Residents' Network.md
       - Our Committees/Citizens' Consultative Committee.md
@@ -22,3 +14,11 @@ collections:
       - Our Committees/Youth Network.md
       - Our Committees/Community Sports Network.md
       - Our Committees/Community Emergency and Engagement Committee.md
+      - Interest Groups/.keep
+      - Interest Groups/Haircutting.md
+      - Interest Groups/Line Dance.md
+      - Interest Groups/Dragon and Lion Dance.md
+      - Interest Groups/Eco Upcycling.md
+      - Interest Groups/Balloon Sculpting.md
+      - Interest Groups/Qigong.md
+      - Interest Groups/Rummy O.md
