@@ -56,7 +56,7 @@ neighbourhood even better!</p>
 </p>
 <h3>Taman Jurong Zone F Residents' Network</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone F RN" src="/images/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Taman Jurong Zone F" src="/images/Flat_Telescope_Binocular_Logo__4_x_6_cm___1_.jpg">
 </div>
 <p>Facebook: <a href="https://www.facebook.com/TamanJurong.ZoneF" rel="noopener nofollow" target="_blank">https://www.facebook.com/TamanJurong.ZoneF</a>
 </p>
