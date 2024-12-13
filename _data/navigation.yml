@@ -2,9 +2,7 @@ logo: /images/PA_symbol.jpg
 links:
   - title: About Us
     url: /permalink
-    sublinks:
-      - title: History
-        url: History
+    sublinks: []
   - title: Our Programmes
     url: /games-with-kakis/
     sublinks:
@@ -49,3 +47,5 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: About Us
+    url: /permalink
