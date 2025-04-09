@@ -1,15 +1,48 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/PA_symbol.jpg
 links:
+  - title: About Us
+    url: /about-us/
+  - title: Our Programmes
+    url: /games-with-kakis/
+    sublinks:
+      - title: Games With Kakis
+        url: /games-with-kakis/
+      - title: Bird Watching
+        url: /bird-watching/
+      - title: Tree Planting
+        url: /tree-planting/
+      - title: Coding
+        url: /coding/
+      - title: Blood Donation Drive
+        url: /blood-donation-drive/
+      - title: Count Me In
+        url: /count-me-in/
+      - title: Share a Pack
+        url: /share-a-pack/
+  - title: Our Network
+    url: /residents-network/
+    sublinks:
+      - title: Committees
+        url: /residents-network/
+      - title: Interest Groups
+        url: /haircutting/
+  - title: Our News
+    url: /our-news/
+  - title: Our Events
+    url: /our-events/
+    sublinks:
+      - title: Upcoming Events
+        url: /taman-jurong-garage-day/
+      - title: Past Events
+        url: /past-events/
+  - title: Get Involved
+    url: /grassroots-leader/
+    sublinks:
+      - title: Grassroots Leader
+        url: /grassroots-leader/
+      - title: Community Volunteer
+        url: /community-volunteer/
+      - title: Partner Us!
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

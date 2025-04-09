@@ -1,0 +1,9 @@
+collections:
+  our-events:
+    output: true
+    order:
+      - Our Events.md
+      - Past Events/.keep
+      - Past Events/PAssionArts 2024.md
+      - Upcoming Events/.keep
+      - Upcoming Events/Taman Jurong Garage Day.md
